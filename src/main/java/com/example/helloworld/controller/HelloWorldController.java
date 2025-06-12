@@ -17,7 +17,7 @@ public class HelloWorldController {
 						"<body>\r\n" + //
 						"\r\n" + //
 						"    <div class=\"container mt-5\">\r\n" + //
-						"        <h1>Hello, Spring Boot Developer!</h1>\r\n" + //
+						"        <h1>Hello, Spring Boot Developer 💛!</h1>\r\n" + //
 						"        <p class=\"lead\">This is a simple example of a Bootstrap-enabled page with spring boot framework.</p>\r\n" + //
 						"\r\n" + //
 						"        <button type=\"button\" class=\"btn btn-primary\">Primary Button</button>\r\n" + //
